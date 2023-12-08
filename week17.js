@@ -104,7 +104,7 @@ console.log("Rectangle's area:", rectangle2.getArea());
 //Задание 7
 //Создайте класс Circle. Класс должен содержать свойство radius. Создайте на его основе объект circle и выведите его свойство в консоль.
 
-class Circle {
+/*class Circle {
 	constructor(radius) {
 	  this.radius = radius;
 	}
@@ -113,7 +113,7 @@ class Circle {
   const circle = new Circle(5);
   
   console.log("Circle properties:");
-  console.log("Radius: ", circle.radius);
+  console.log("Radius: ", circle.radius);*/
   
 
 //Задание 8
@@ -424,7 +424,7 @@ class Person {
 //Создайте класс Employee. Класс должен содержать свойства name, position и salary. Создайте на его основе объект employee и выведите его свойства в консоль.
 //Подсказка: Используйте методы класса, чтобы создать объект employee и вывести его свойства.
 
-class Employee {
+/*class Employee {
 	constructor(name, position, salary) {
 	  this.name = name;
 	  this.position = position;
@@ -437,7 +437,7 @@ class Employee {
   console.log("Employee properties:");
   console.log("Name: ", employee.name);
   console.log("Position: ", employee.position);
-  console.log("Salary: $", employee.salary);
+  console.log("Salary: $", employee.salary);*/
   
 //Задание 24
 //Добавьте в класс Employee метод calculateBonus, который будет принимать процент бонуса и увеличивать зарплату сотрудника на соответствующую сумму. Создайте объект employee2 на основе класса Employee и вызовите метод calculateBonus с процентом 10. Выведите новую зарплату сотрудника в консоль.
@@ -467,7 +467,7 @@ class Employee {
 //Создайте класс Product. Класс должен содержать свойства name, price и quantity. Создайте на его основе объект product и выведите его свойства в консоль.
 //Подсказка: Используйте методы класса, чтобы создать объект product и вывести его свойства.
 
-class Product {
+/*class Product {
 	constructor(name, price, quantity) {
 	  this.name = name;
 	  this.price = price;
@@ -481,7 +481,7 @@ class Product {
   console.log("Product properties:");
   console.log("Name: ", product.name);
   console.log("Price: $", product.price);
-  console.log("Quantity: ", product.quantity);
+  console.log("Quantity: ", product.quantity);*/
   
 
 //Задание 26
